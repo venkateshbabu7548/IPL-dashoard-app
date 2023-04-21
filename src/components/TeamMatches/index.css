@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.bg-con {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100vw;
+  padding: 20px;
+  font-family: Bree Serif;
+  color: white;
+}
+.latest {
+  display: flex;
+  flex-direction: column;
+}
+.RCB {
+  background-image: linear-gradient(#a4261d, #1e293b);
+}
+.KKR {
+  background-image: linear-gradient(#5755a7, #0f172a);
+}
+.KXP {
+  background-image: linear-gradient(#d91c1f, #1e293b);
+}
+.CSK {
+  background-image: linear-gradient(#f7db00, #1e293b);
+}
+.RR {
+  background-image: linear-gradient(#4f5db0, #13418b);
+}
+.MI {
+  background-image: linear-gradient(#13418b, #1e293b);
+}
+.SRH {
+  background-image: linear-gradient(#f26d22, #da237b);
+}
+.DC {
+  background-image: linear-gradient(#4f5db0, #13418b);
+}
+
+.banner {
+  width: 99%;
+  height: 350px;
+  margin-bottom: 20px;
+}

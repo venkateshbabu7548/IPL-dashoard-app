@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.team-img {
+  height: 70px;
+  width: 70px;
+}
+.each-team {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.team-link {
+  text-decoration: none;
+  color: white;
+  background-color: #ffffff33;
+  border: 1px solid white;
+  border-radius: 15px;
+  height: 170px;
+  width: 350px;
+  padding: 10px;
+  margin: 20px;
+}
+.team-name {
+  margin-left: 10px;
+}
